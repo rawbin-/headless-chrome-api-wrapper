@@ -101,3 +101,10 @@ export default {
     getRecursiveProperties,
     getRecursiveResult
 }
+
+
+module.exports = {
+    prepareAPI,
+    getRecursiveProperties,
+    getRecursiveResult
+}

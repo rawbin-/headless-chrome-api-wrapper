@@ -215,3 +215,10 @@ exports.default = {
     getRecursiveProperties: getRecursiveProperties,
     getRecursiveResult: getRecursiveResult
 };
+
+
+module.exports = {
+    prepareAPI: prepareAPI,
+    getRecursiveProperties: getRecursiveProperties,
+    getRecursiveResult: getRecursiveResult
+};
